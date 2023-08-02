@@ -3,3 +3,9 @@ git status
 git add
 git status
 git commit -m
+
+how to pull repo in local machine
+ first make folder
+then type git clone url of repo
+
+we dont need to do git init or git add because it is already a repo
