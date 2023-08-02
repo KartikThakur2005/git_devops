@@ -9,3 +9,14 @@ how to pull repo in local machine
 then type git clone url of repo
 
 we dont need to do git init or git add because it is already a repo
+
+          pull                        |           fetch
+	  uesd to copy changes of     |       fetch is ude to copy all
+	  certain branch              |          branches created from main
+
+git remote -v [ tell from where we have pull repo ]
+
+git pull origin main
+          _____ ____
+	  source branch
+
